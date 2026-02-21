@@ -2,13 +2,6 @@
 
 <h2 align="left">Hi 👋! My name is Milan and I'm a minecraft developer, from Hungary.</h2>
 
-###
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=droidapplication&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=droidapplication&layout=compact&theme=dracula)
-###
-
 <div align="left">
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img width="12" />
