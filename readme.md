@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Milan and I'm a minecraft developer, from Hungary.</h2>
+<h2 align="left">Hi 👋! My name is Milán and I'm a Developer, from Hungary.</h2>
 
 <div align="left">
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
