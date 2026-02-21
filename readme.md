@@ -4,10 +4,9 @@
 
 ###
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=droidapplication&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=droidapplication&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=droidapplication&layout=compact&theme=dracula)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=droidapplication&layout=compact&theme=dracula)
 ###
 
 <div align="left">
