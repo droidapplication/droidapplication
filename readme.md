@@ -2,6 +2,10 @@
 
 <h2 align="left">Hi 👋! My name is Milan and I'm a minecraft developer, from Hungary.</h2>
 
+[![](https://visitcount.itsvg.in/api?id=droidapplication&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/AbjD4MngeQ) 
+
 <div align="left">
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img width="12" />
