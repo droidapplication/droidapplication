@@ -44,7 +44,7 @@
 <ul>
   <li><b>HCChampions Network</b> >> Owner </li>
   <li><b>Soupy </b> >> Owner</li>
-  <li><b>HavenMC</b> >> Developer</li>
+  <li><b>HavenMC</b> >> Developer / Web Dev</li>
 </ul>
 
 <!-- PAST PROJECTS -->
